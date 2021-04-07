@@ -1,2 +1,2 @@
-worker: python3 main.py
-worker: python3 main.py
+worker: python dump_users.py
+worker: python main.py
